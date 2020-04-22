@@ -17,7 +17,7 @@ const config = {
   atoken: externalConfig.artifactory.token,
   aurl: externalConfig.artifactory.url,
   aartifacts: externalConfig.artifactory.artifacts,
-  ascript: externalConfig.artifactory.script,
+  ascript: externalConfig.artifactory.scrip,
 
   // Developer Commands
   developer: {
